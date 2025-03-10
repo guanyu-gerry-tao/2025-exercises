@@ -34,6 +34,7 @@ This project is my first study project, learning web scraper: scraping data, par
 - requesting and the BeautifulSoup
 - basic logic, looping
 - `os` module and dir operation
+- regex
 
 #### result:
 Scripts extracted multiple-page contents from https://movie.douban.com/top250 and its following pages (such as https://movie.douban.com/top250?start=25), generated a CSV file with top 250 movies in Douban and saved in local disk.

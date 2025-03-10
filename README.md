@@ -15,7 +15,7 @@ I realize AI in VSCode was overkill for beginner programmer who wish to remember
 ChatGPT is used for consulting only, not for generating codes.
 Not yet using Cursor.
 
-# project list (reverse chronological order)
+# Project list (reverse chronological order)
 ### 📌exercise-web-scraper
 finished on 2025-03-09
 

@@ -10,7 +10,7 @@ It includes my first practice projects, basic exercises, and initial exploration
 I know those code would be sucks, especially those early codes,
 But I will keep learning, improving, and building better projects in the future!
 
-## 🤖AI use claimer
+## 🤖AI use disclaimer
 I realize AI in VSCode was overkill for beginner programmer who wish to remember and practice. I use it for reference only.
 ChatGPT is used for consulting only, not for generating codes.
 Not yet using Cursor.

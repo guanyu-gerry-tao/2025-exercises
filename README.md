@@ -1,5 +1,5 @@
-# 🧑‍💻2025-exercises
-This repository documents my early coding journey as I started learning programming.  
+# 2025-exercises
+🧑‍💻This repository documents my early coding journey as I started learning programming.  
 It includes my first practice projects, basic exercises, and initial explorations in coding.  
 
 ## 📝About  

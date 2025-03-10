@@ -7,7 +7,8 @@ It includes my first practice projects, basic exercises, and initial exploration
 - 🛠 **Content**: Early coding exercises, small projects, and experiments.  
 - 🚀 **Note**: These are my first steps in programming, and the code quality may not reflect my current skills.  
 
-I will keep learning, improving, and building better projects in the future!
+I know those code would be sucks, especially those early codes,
+But I will keep learning, improving, and building better projects in the future!
 
 ## AI use claimer
 I realize AI in VSCode was overkill for beginner programmer who wish to remember and practice. I use it for reference only.
@@ -27,7 +28,7 @@ finished on 2025-03-09
 
 This project is my first study project, learning web scraper: scraping data, parsing and formatting the movie data from Douban.html, one of largest Chinese film websites.
 
-This project revisited my previous Python knowledge:
+#### This project revisited my previous Python knowledge:
 - Practicing web scraping
 - file caching using `with open() as f`
 - requesting and the BeautifulSoup

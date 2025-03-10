@@ -16,7 +16,7 @@ ChatGPT is used for consulting only, not for generating codes.
 Not yet using Cursor.
 
 # Project list (reverse chronological order)
-### 📌exercise-web-scraper
+### 📌[exercise-web-scraper](./exercise-web-scraper)
 finished on 2025-03-09
 
 This project is my first study project, learning web scraper: scraping data, parsing and formatting the movie data from Douban.html, one of largest Chinese film websites.
@@ -32,7 +32,7 @@ This project is my first study project, learning web scraper: scraping data, par
 #### result:
 Scripts extracted multiple-page contents from https://movie.douban.com/top250 and its following pages (such as https://movie.douban.com/top250?start=25), generated a CSV file with top 250 movies in Douban and saved in local disk.
 
-### 📌exercise-hello-world
+### 📌[exercise-hello-world](./exercise-hello-world)
 finished on 2025-03-08
 
 This project is the starting point, helping setting up and study
